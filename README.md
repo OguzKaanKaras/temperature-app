@@ -1,12 +1,10 @@
 
 # Temperature App
 
-This project developed with java 17 and spring boot.
+Get temperature data by city name. This project developed with java 17 and spring boot.
 
 
 ## Run Locally
-
-Get temperature data by city name.
 
 Clone the project
 
